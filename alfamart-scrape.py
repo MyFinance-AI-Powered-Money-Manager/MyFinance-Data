@@ -8,9 +8,9 @@ def main():
         page.goto("https://alfagift.id")
         # Mengambil lokasi dari html element dengan class list-group-item dan list-1v1 
         # Setelahnya mencari span yang terdapat didalam element a
-        target_spans = page.locator(".list-group-item.list-lv1 > a span")
-        span_texts = target_spans.all_inner_texts()
-        df = pd.DataFrame({"category": span_texts})
+        category_locator = page.locator(".list-group-item.list-lv1 > a span")
+        category = category_locator.all_inner_texts()
+        df = pd.DataFrame({"category": category})
         print(df)
         browser.close()
 
