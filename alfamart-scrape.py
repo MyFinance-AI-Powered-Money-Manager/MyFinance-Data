@@ -1,5 +1,6 @@
 from playwright.sync_api import sync_playwright
 import pandas as pd
+import numpy as np
 import time
 
 def get_products(browser, page, subcategory_link):
@@ -7,13 +8,20 @@ def get_products(browser, page, subcategory_link):
     page.goto(subcategory_link)
     while True:
         page.wait_for_selector(".mb-0.px-2.product_name.text-default", timeout=10000)
-        products = page.locator(".mb-0.px-2.product_name.text-default").all()
+        products = page.locator(".list-product-items.col-sm-6.col-md-6.col-lg-2.col-6").all()
         for product in products:
-            product_name = product.inner_text().strip()
-            product_list.append(product_name)
+            product_name = product.locator(".mb-0.px-2.product_name.text-default").inner_text().strip()
+            if product.locator("p.price.text-lg.fw7.text-primary span").is_visible():
+                product_price = product.locator("p.price.text-lg.fw7.text-primary span").inner_text().strip()[3:]
+                product_list.append({'name': product_name,
+                                     'price':product_price})
+            else:
+                product_list.append({'name': product_name,
+                                     'price': np.nan})
+        
+        # Mengambil element next page lalu mengecek apakah ada next page atau tidak
         next_button = page.get_by_label("Go to next page")
         is_disabled = next_button.get_attribute("aria-disabled")
-
         if is_disabled == None:
             next_button.click()
         else:
@@ -45,7 +53,8 @@ def main():
                     data.append({
                         "Category": category_name,
                         "Subcategory": subcategory_name,
-                        "product": product
+                        "product": product['name'],
+                        "price": product['price']
                     })
                 time.sleep(2)
             
