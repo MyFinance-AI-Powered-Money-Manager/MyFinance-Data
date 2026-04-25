@@ -51,8 +51,8 @@ def main():
                 products = get_products(browser, page, f"https://alfagift.id{subcategory_link}")
                 for product in products:
                     data.append({
-                        "Category": category_name,
-                        "Subcategory": subcategory_name,
+                        "category": category_name,
+                        "subcategory": subcategory_name,
                         "product": product['name'],
                         "price": product['price']
                     })
@@ -60,7 +60,7 @@ def main():
             
         
         df = pd.DataFrame(data)
-        df.to_csv("alfagift_scrape.csv")
+        df.to_csv("scrape/scrape-result/alfagift_scrape.csv")
         browser.close()
 
 if __name__ == "__main__":
