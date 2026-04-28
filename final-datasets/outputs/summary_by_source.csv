@@ -1,0 +1,5 @@
+source,total_rows,unique_products,valid_price_rows,missing_price_rows,median_price,mean_price,min_price,max_price
+additional,19,19,0,19,,,,
+alfagift,8636,8588,7359,1277,19500.0,32608.472618562304,1000.0,1085000.0
+hangout_treats,3610,3161,3610,0,20000.0,30167.240997229917,3000.0,465000.0
+tokopedia,164,164,0,164,,,,
