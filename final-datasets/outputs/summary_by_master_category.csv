@@ -1,0 +1,8 @@
+Macro_Category,Master_Category,total_rows,unique_products,valid_price_rows,missing_price_rows,median_price,mean_price,min_price,max_price,high_confidence_rows
+NEEDS,Kebutuhan Rumah & Mandi,2411,2401,2253,158,26500.0,34137.905015534845,2500.0,279900.0,2411
+NEEDS,Makan & Minum Harian,2369,2361,1803,566,16500.0,39723.128119800334,2400.0,1085000.0,2369
+NEEDS,Tagihan & Kewajiban,43,43,0,43,,,,,43
+NEEDS,Transportasi & Rutinitas,81,81,67,14,26900.0,29426.86567164179,7000.0,100000.0,81
+OTHERS,Lain-lain & Darurat,645,644,562,83,17500.0,28259.074733096084,1700.0,277700.0,645
+WANTS,Hobi & Self-Reward,1243,1234,989,254,36900.0,51277.70475227502,1000.0,359000.0,1243
+WANTS,Jajan & Nongkrong,5637,5168,5295,342,16000.0,24885.578847969784,1500.0,465000.0,5637
