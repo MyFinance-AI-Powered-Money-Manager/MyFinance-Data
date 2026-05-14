@@ -4,7 +4,7 @@ import pandas as pd
 import joblib
 
 current_dir = Path(__file__).parent
-df = pd.read_csv('myfinance_daily_features_ready.csv')
+df = pd.read_csv(current_dir / "df_features.csv")
 df['actual_spend'] = df['transaction_count'] * df['avg_transaction_amount']
 
 features = [
@@ -28,9 +28,9 @@ def makeModel(category: str):
     except:
         print(f"{category} category doesn't exist")
 
-categories = [ 'Kebutuhan Rumah & Mandi',      'Lain-lain & Darurat',
-     'Makan & Minum Harian',      'Tagihan & Kewajiban',
- 'Transportasi & Rutinitas']
+categories = ['Hobi & Self-Reward','Jajan & Nongkrong', 'Kebutuhan Rumah & Mandi',
+              'Lain-lain & Darurat', 'Makan & Minum Harian', 'Tagihan & Kewajiban',
+              'Transportasi & Rutinitas']
 
 for category in categories:
     makeModel(category=category)
