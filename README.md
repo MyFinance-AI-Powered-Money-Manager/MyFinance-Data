@@ -7,6 +7,7 @@ Repository ini berisi pipeline Data Science untuk proyek MyFinance, meliputi dat
 - Final master dataset: `final-datasets/myfinance_sprint1_master_dataset.csv`
 - AI training dataset: `final-datasets/myfinance_ai_training_dataset.csv`
 - EDA notebook: `final-datasets/data_wrangling_eda_all.ipynb`
+- A/B Testing: `experiments/ab_testing_synthetic_myfinance.ipynb`
 - Data Dictionary: `docs/data_dictionary.md`
 - Technical Report: `docs/laporan_teknis_data_science.pdf`
 
