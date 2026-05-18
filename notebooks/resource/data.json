@@ -1,0 +1,2416 @@
+{
+  "user_id": "cc3fd629-6e03-4b21-b6db-6e20f3d9dc39",
+  "month_period": "2025",
+  "transactions": [
+    {
+      "id": "trx-0001",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 16800,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat",
+      "description": "akurat strip uji kehamilan",
+      "transaction_date": "2026-05-01T00:44:00Z"
+    },
+    {
+      "id": "trx-0002",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Sarapan",
+      "transaction_date": "2026-05-01T07:00:00Z"
+    },
+    {
+      "id": "trx-0003",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pergi",
+      "transaction_date": "2026-05-01T08:00:00Z"
+    },
+    {
+      "id": "trx-0004",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "INCOME",
+      "total_amount": 9122291,
+      "category": "NEEDS",
+      "subcategory": "Salary",
+      "description": "Gaji Bulanan",
+      "transaction_date": "2026-05-01T09:00:00Z"
+    },
+    {
+      "id": "trx-0005",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 2032620,
+      "category": "NEEDS",
+      "subcategory": "Tagihan & Kewajiban",
+      "description": "Bayar Kosan",
+      "transaction_date": "2026-05-01T10:00:00Z"
+    },
+    {
+      "id": "trx-0006",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 427347,
+      "category": "NEEDS",
+      "subcategory": "Tagihan & Kewajiban",
+      "description": "Listrik",
+      "transaction_date": "2026-05-01T10:15:00Z"
+    },
+    {
+      "id": "trx-0007",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 55500,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi",
+      "description": "paseo elegant tisu toilet gulung 8 roll",
+      "transaction_date": "2026-05-01T10:17:00Z"
+    },
+    {
+      "id": "trx-0008",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Siang",
+      "transaction_date": "2026-05-01T12:00:00Z"
+    },
+    {
+      "id": "trx-0009",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong",
+      "description": "yupi wild safari permen jeli aneka rasa 44 g",
+      "transaction_date": "2026-05-01T14:33:00Z"
+    },
+    {
+      "id": "trx-0010",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pulang",
+      "transaction_date": "2026-05-01T17:00:00Z"
+    },
+    {
+      "id": "trx-0011",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Malam",
+      "transaction_date": "2026-05-01T18:00:00Z"
+    },
+    {
+      "id": "trx-0012",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Sarapan",
+      "transaction_date": "2026-05-02T07:00:00Z"
+    },
+    {
+      "id": "trx-0013",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "WANTS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pergi",
+      "transaction_date": "2026-05-02T08:00:00Z"
+    },
+    {
+      "id": "trx-0014",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 31900,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat",
+      "description": "whiskas makanan kucing kering kitten makerel 450 g",
+      "transaction_date": "2026-05-02T08:16:00Z"
+    },
+    {
+      "id": "trx-0015",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Siang",
+      "transaction_date": "2026-05-02T12:00:00Z"
+    },
+    {
+      "id": "trx-0016",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pulang",
+      "transaction_date": "2026-05-02T17:00:00Z"
+    },
+    {
+      "id": "trx-0017",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Malam",
+      "transaction_date": "2026-05-02T18:00:00Z"
+    },
+    {
+      "id": "trx-0018",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Sarapan",
+      "transaction_date": "2026-05-03T07:00:00Z"
+    },
+    {
+      "id": "trx-0019",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "WANTS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pergi",
+      "transaction_date": "2026-05-03T08:00:00Z"
+    },
+    {
+      "id": "trx-0020",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Siang",
+      "transaction_date": "2026-05-03T12:00:00Z"
+    },
+    {
+      "id": "trx-0021",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pulang",
+      "transaction_date": "2026-05-03T17:00:00Z"
+    },
+    {
+      "id": "trx-0022",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Malam",
+      "transaction_date": "2026-05-03T18:00:00Z"
+    },
+    {
+      "id": "trx-0023",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 8700,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat",
+      "description": "holisticare super ester-c vitamin c suplemen daya tahan tubuh 4 tablet",
+      "transaction_date": "2026-05-03T23:13:00Z"
+    },
+    {
+      "id": "trx-0024",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong",
+      "description": "yupi wild safari permen jeli aneka rasa 44 g",
+      "transaction_date": "2026-05-04T00:01:00Z"
+    },
+    {
+      "id": "trx-0025",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Sarapan",
+      "transaction_date": "2026-05-04T07:00:00Z"
+    },
+    {
+      "id": "trx-0026",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pergi",
+      "transaction_date": "2026-05-04T08:00:00Z"
+    },
+    {
+      "id": "trx-0027",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Siang",
+      "transaction_date": "2026-05-04T12:00:00Z"
+    },
+    {
+      "id": "trx-0028",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pulang",
+      "transaction_date": "2026-05-04T17:00:00Z"
+    },
+    {
+      "id": "trx-0029",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Malam",
+      "transaction_date": "2026-05-04T18:00:00Z"
+    },
+    {
+      "id": "trx-0030",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 21400,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat",
+      "description": "rohto cool obat tetes mata 7 ml",
+      "transaction_date": "2026-05-04T22:36:00Z"
+    },
+    {
+      "id": "trx-0031",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Sarapan",
+      "transaction_date": "2026-05-05T07:00:00Z"
+    },
+    {
+      "id": "trx-0032",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pergi",
+      "transaction_date": "2026-05-05T08:00:00Z"
+    },
+    {
+      "id": "trx-0033",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Siang",
+      "transaction_date": "2026-05-05T12:00:00Z"
+    },
+    {
+      "id": "trx-0034",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 52900,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi",
+      "description": "pinkberry reed diffuser pengharum ruangan gardenia wishes 30 ml",
+      "transaction_date": "2026-05-05T13:29:00Z"
+    },
+    {
+      "id": "trx-0035",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pulang",
+      "transaction_date": "2026-05-05T17:00:00Z"
+    },
+    {
+      "id": "trx-0036",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Malam",
+      "transaction_date": "2026-05-05T18:00:00Z"
+    },
+    {
+      "id": "trx-0037",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 8000,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat",
+      "description": "kiky buku tulis 38 lembar karakter",
+      "transaction_date": "2026-05-05T19:06:00Z"
+    },
+    {
+      "id": "trx-0038",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong",
+      "description": "yupi wild safari permen jeli aneka rasa 44 g",
+      "transaction_date": "2026-05-05T22:10:00Z"
+    },
+    {
+      "id": "trx-0039",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 85000,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi",
+      "description": "original source sabun mandi creamy vanilla & raspberry 1 l",
+      "transaction_date": "2026-05-06T06:19:00Z"
+    },
+    {
+      "id": "trx-0040",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Sarapan",
+      "transaction_date": "2026-05-06T07:00:00Z"
+    },
+    {
+      "id": "trx-0041",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pergi",
+      "transaction_date": "2026-05-06T08:00:00Z"
+    },
+    {
+      "id": "trx-0042",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 8100,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat",
+      "description": "whiskas junior makanan kucing basah mousse ayam 80 g",
+      "transaction_date": "2026-05-06T09:41:00Z"
+    },
+    {
+      "id": "trx-0043",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Siang",
+      "transaction_date": "2026-05-06T12:00:00Z"
+    },
+    {
+      "id": "trx-0044",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 20000,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong",
+      "description": "kopi toraja",
+      "transaction_date": "2026-05-06T15:08:00Z"
+    },
+    {
+      "id": "trx-0045",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pulang",
+      "transaction_date": "2026-05-06T17:00:00Z"
+    },
+    {
+      "id": "trx-0046",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Malam",
+      "transaction_date": "2026-05-06T18:00:00Z"
+    },
+    {
+      "id": "trx-0047",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24900,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi",
+      "description": "glade pengharum ruangan aerosol peony & berry bliss 350 ml",
+      "transaction_date": "2026-05-07T03:12:00Z"
+    },
+    {
+      "id": "trx-0048",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 12900,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat",
+      "description": "alfamart tinytan masker dewasa 3d duckbill + 8 air patch",
+      "transaction_date": "2026-05-07T05:41:00Z"
+    },
+    {
+      "id": "trx-0049",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Sarapan",
+      "transaction_date": "2026-05-07T07:00:00Z"
+    },
+    {
+      "id": "trx-0050",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pergi",
+      "transaction_date": "2026-05-07T08:00:00Z"
+    },
+    {
+      "id": "trx-0051",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Siang",
+      "transaction_date": "2026-05-07T12:00:00Z"
+    },
+    {
+      "id": "trx-0052",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pulang",
+      "transaction_date": "2026-05-07T17:00:00Z"
+    },
+    {
+      "id": "trx-0053",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Malam",
+      "transaction_date": "2026-05-07T18:00:00Z"
+    },
+    {
+      "id": "trx-0054",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong",
+      "description": "yupi wild safari permen jeli aneka rasa 44 g",
+      "transaction_date": "2026-05-07T22:19:00Z"
+    },
+    {
+      "id": "trx-0055",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 25900,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi",
+      "description": "wonder fuel tabung gas mini portabel 220 g",
+      "transaction_date": "2026-05-08T02:56:00Z"
+    },
+    {
+      "id": "trx-0056",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 10500,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat",
+      "description": "peditox obat pembasmi kutu rambut 50 ml",
+      "transaction_date": "2026-05-08T03:38:00Z"
+    },
+    {
+      "id": "trx-0057",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Sarapan",
+      "transaction_date": "2026-05-08T07:00:00Z"
+    },
+    {
+      "id": "trx-0058",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pergi",
+      "transaction_date": "2026-05-08T08:00:00Z"
+    },
+    {
+      "id": "trx-0059",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Siang",
+      "transaction_date": "2026-05-08T12:00:00Z"
+    },
+    {
+      "id": "trx-0060",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pulang",
+      "transaction_date": "2026-05-08T17:00:00Z"
+    },
+    {
+      "id": "trx-0061",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Malam",
+      "transaction_date": "2026-05-08T18:00:00Z"
+    },
+    {
+      "id": "trx-0062",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong",
+      "description": "yupi wild safari permen jeli aneka rasa 44 g",
+      "transaction_date": "2026-05-08T22:49:00Z"
+    },
+    {
+      "id": "trx-0063",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Sarapan",
+      "transaction_date": "2026-05-09T07:00:00Z"
+    },
+    {
+      "id": "trx-0064",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "WANTS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pergi",
+      "transaction_date": "2026-05-09T08:00:00Z"
+    },
+    {
+      "id": "trx-0065",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong",
+      "description": "yupi wild safari permen jeli aneka rasa 44 g",
+      "transaction_date": "2026-05-09T09:18:00Z"
+    },
+    {
+      "id": "trx-0066",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Siang",
+      "transaction_date": "2026-05-09T12:00:00Z"
+    },
+    {
+      "id": "trx-0067",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pulang",
+      "transaction_date": "2026-05-09T17:00:00Z"
+    },
+    {
+      "id": "trx-0068",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 19900,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi",
+      "description": "so klin pewangi pakaian cotton fantasy refill 1700 ml",
+      "transaction_date": "2026-05-09T17:39:00Z"
+    },
+    {
+      "id": "trx-0069",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Malam",
+      "transaction_date": "2026-05-09T18:00:00Z"
+    },
+    {
+      "id": "trx-0070",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 40200,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat",
+      "description": "vicks formula 44 obat batuk cair 100 ml",
+      "transaction_date": "2026-05-09T23:43:00Z"
+    },
+    {
+      "id": "trx-0071",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong",
+      "description": "yupi wild safari permen jeli aneka rasa 44 g",
+      "transaction_date": "2026-05-10T02:25:00Z"
+    },
+    {
+      "id": "trx-0072",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 22800,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat",
+      "description": "caladine lotion obat anti gatal 60 ml",
+      "transaction_date": "2026-05-10T06:11:00Z"
+    },
+    {
+      "id": "trx-0073",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Sarapan",
+      "transaction_date": "2026-05-10T07:00:00Z"
+    },
+    {
+      "id": "trx-0074",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "WANTS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pergi",
+      "transaction_date": "2026-05-10T08:00:00Z"
+    },
+    {
+      "id": "trx-0075",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Siang",
+      "transaction_date": "2026-05-10T12:00:00Z"
+    },
+    {
+      "id": "trx-0076",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pulang",
+      "transaction_date": "2026-05-10T17:00:00Z"
+    },
+    {
+      "id": "trx-0077",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Malam",
+      "transaction_date": "2026-05-10T18:00:00Z"
+    },
+    {
+      "id": "trx-0078",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 22900,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi",
+      "description": "cussons botol susu bayi 60 ml",
+      "transaction_date": "2026-05-10T22:44:00Z"
+    },
+    {
+      "id": "trx-0079",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Sarapan",
+      "transaction_date": "2026-05-11T07:00:00Z"
+    },
+    {
+      "id": "trx-0080",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pergi",
+      "transaction_date": "2026-05-11T08:00:00Z"
+    },
+    {
+      "id": "trx-0081",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 38200,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat",
+      "description": "whiskas makanan kucing kering adult tuna 480 g",
+      "transaction_date": "2026-05-11T09:47:00Z"
+    },
+    {
+      "id": "trx-0082",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Siang",
+      "transaction_date": "2026-05-11T12:00:00Z"
+    },
+    {
+      "id": "trx-0083",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 9600,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong",
+      "description": "lotte xylitol fresh mint 26.1 g",
+      "transaction_date": "2026-05-11T14:56:00Z"
+    },
+    {
+      "id": "trx-0084",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong",
+      "description": "yupi wild safari permen jeli aneka rasa 44 g",
+      "transaction_date": "2026-05-11T16:41:00Z"
+    },
+    {
+      "id": "trx-0085",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pulang",
+      "transaction_date": "2026-05-11T17:00:00Z"
+    },
+    {
+      "id": "trx-0086",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Malam",
+      "transaction_date": "2026-05-11T18:00:00Z"
+    },
+    {
+      "id": "trx-0087",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 13600,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat",
+      "description": "kiky buku tulis boxy 40 lembar",
+      "transaction_date": "2026-05-12T05:56:00Z"
+    },
+    {
+      "id": "trx-0088",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Sarapan",
+      "transaction_date": "2026-05-12T07:00:00Z"
+    },
+    {
+      "id": "trx-0089",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 27900,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi",
+      "description": "sleek baby pelembut & pewangi pakaian bayi 430 ml",
+      "transaction_date": "2026-05-12T07:51:00Z"
+    },
+    {
+      "id": "trx-0090",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pergi",
+      "transaction_date": "2026-05-12T08:00:00Z"
+    },
+    {
+      "id": "trx-0091",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Siang",
+      "transaction_date": "2026-05-12T12:00:00Z"
+    },
+    {
+      "id": "trx-0092",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pulang",
+      "transaction_date": "2026-05-12T17:00:00Z"
+    },
+    {
+      "id": "trx-0093",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Malam",
+      "transaction_date": "2026-05-12T18:00:00Z"
+    },
+    {
+      "id": "trx-0094",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 65000,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong",
+      "description": "swiss roll chesee cake",
+      "transaction_date": "2026-05-12T19:52:00Z"
+    },
+    {
+      "id": "trx-0095",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong",
+      "description": "yupi wild safari permen jeli aneka rasa 44 g",
+      "transaction_date": "2026-05-12T23:27:00Z"
+    },
+    {
+      "id": "trx-0096",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Sarapan",
+      "transaction_date": "2026-05-13T07:00:00Z"
+    },
+    {
+      "id": "trx-0097",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pergi",
+      "transaction_date": "2026-05-13T08:00:00Z"
+    },
+    {
+      "id": "trx-0098",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 12900,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi",
+      "description": "alfamart kamper lemari 150 g",
+      "transaction_date": "2026-05-13T08:09:00Z"
+    },
+    {
+      "id": "trx-0099",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Siang",
+      "transaction_date": "2026-05-13T12:00:00Z"
+    },
+    {
+      "id": "trx-0100",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 91300,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat",
+      "description": "l-men gainmass whey protein cokelat 225 g",
+      "transaction_date": "2026-05-13T12:10:00Z"
+    },
+    {
+      "id": "trx-0101",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pulang",
+      "transaction_date": "2026-05-13T17:00:00Z"
+    },
+    {
+      "id": "trx-0102",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Malam",
+      "transaction_date": "2026-05-13T18:00:00Z"
+    },
+    {
+      "id": "trx-0103",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong",
+      "description": "yupi wild safari permen jeli aneka rasa 44 g",
+      "transaction_date": "2026-05-14T00:50:00Z"
+    },
+    {
+      "id": "trx-0104",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Sarapan",
+      "transaction_date": "2026-05-14T07:00:00Z"
+    },
+    {
+      "id": "trx-0105",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pergi",
+      "transaction_date": "2026-05-14T08:00:00Z"
+    },
+    {
+      "id": "trx-0106",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Siang",
+      "transaction_date": "2026-05-14T12:00:00Z"
+    },
+    {
+      "id": "trx-0107",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 10000,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat",
+      "description": "wiggle pulpen 3 warna assorted",
+      "transaction_date": "2026-05-14T13:39:00Z"
+    },
+    {
+      "id": "trx-0108",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pulang",
+      "transaction_date": "2026-05-14T17:00:00Z"
+    },
+    {
+      "id": "trx-0109",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Malam",
+      "transaction_date": "2026-05-14T18:00:00Z"
+    },
+    {
+      "id": "trx-0110",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Sarapan",
+      "transaction_date": "2026-05-15T07:00:00Z"
+    },
+    {
+      "id": "trx-0111",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pergi",
+      "transaction_date": "2026-05-15T08:00:00Z"
+    },
+    {
+      "id": "trx-0112",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Siang",
+      "transaction_date": "2026-05-15T12:00:00Z"
+    },
+    {
+      "id": "trx-0113",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong",
+      "description": "yupi wild safari permen jeli aneka rasa 44 g",
+      "transaction_date": "2026-05-15T13:55:00Z"
+    },
+    {
+      "id": "trx-0114",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pulang",
+      "transaction_date": "2026-05-15T17:00:00Z"
+    },
+    {
+      "id": "trx-0115",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Malam",
+      "transaction_date": "2026-05-15T18:00:00Z"
+    },
+    {
+      "id": "trx-0116",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Sarapan",
+      "transaction_date": "2026-05-16T07:00:00Z"
+    },
+    {
+      "id": "trx-0117",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "WANTS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pergi",
+      "transaction_date": "2026-05-16T08:00:00Z"
+    },
+    {
+      "id": "trx-0118",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Siang",
+      "transaction_date": "2026-05-16T12:00:00Z"
+    },
+    {
+      "id": "trx-0119",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pulang",
+      "transaction_date": "2026-05-16T17:00:00Z"
+    },
+    {
+      "id": "trx-0120",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Malam",
+      "transaction_date": "2026-05-16T18:00:00Z"
+    },
+    {
+      "id": "trx-0121",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 10900,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi",
+      "description": "bebek bathroom lavender pembersih kamar mandi refill 400 ml",
+      "transaction_date": "2026-05-17T06:54:00Z"
+    },
+    {
+      "id": "trx-0122",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Sarapan",
+      "transaction_date": "2026-05-17T07:00:00Z"
+    },
+    {
+      "id": "trx-0123",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "WANTS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pergi",
+      "transaction_date": "2026-05-17T08:00:00Z"
+    },
+    {
+      "id": "trx-0124",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong",
+      "description": "yupi wild safari permen jeli aneka rasa 44 g",
+      "transaction_date": "2026-05-17T09:53:00Z"
+    },
+    {
+      "id": "trx-0125",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Siang",
+      "transaction_date": "2026-05-17T12:00:00Z"
+    },
+    {
+      "id": "trx-0126",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pulang",
+      "transaction_date": "2026-05-17T17:00:00Z"
+    },
+    {
+      "id": "trx-0127",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Malam",
+      "transaction_date": "2026-05-17T18:00:00Z"
+    },
+    {
+      "id": "trx-0128",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong",
+      "description": "yupi wild safari permen jeli aneka rasa 44 g",
+      "transaction_date": "2026-05-18T01:44:00Z"
+    },
+    {
+      "id": "trx-0129",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Sarapan",
+      "transaction_date": "2026-05-18T07:00:00Z"
+    },
+    {
+      "id": "trx-0130",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pergi",
+      "transaction_date": "2026-05-18T08:00:00Z"
+    },
+    {
+      "id": "trx-0131",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Siang",
+      "transaction_date": "2026-05-18T12:00:00Z"
+    },
+    {
+      "id": "trx-0132",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas",
+      "description": "GoJek pulang",
+      "transaction_date": "2026-05-18T17:00:00Z"
+    },
+    {
+      "id": "trx-0133",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian",
+      "description": "Makan Malam",
+      "transaction_date": "2026-05-18T18:00:00Z"
+    }
+  ],
+  "transaction_items": [
+    {
+      "id": "item-0001",
+      "transaction_id": "trx-0001",
+      "item_name": "akurat strip uji kehamilan",
+      "price": 16800,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat"
+    },
+    {
+      "id": "item-0002",
+      "transaction_id": "trx-0002",
+      "item_name": "Sarapan",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0003",
+      "transaction_id": "trx-0003",
+      "item_name": "GoJek pergi",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0004",
+      "transaction_id": "trx-0004",
+      "item_name": "Gaji Bulanan",
+      "price": 9122291,
+      "category": "NEEDS",
+      "subcategory": "Salary"
+    },
+    {
+      "id": "item-0005",
+      "transaction_id": "trx-0005",
+      "item_name": "Bayar Kosan",
+      "price": 2032620,
+      "category": "NEEDS",
+      "subcategory": "Tagihan & Kewajiban"
+    },
+    {
+      "id": "item-0006",
+      "transaction_id": "trx-0006",
+      "item_name": "Listrik",
+      "price": 427347,
+      "category": "NEEDS",
+      "subcategory": "Tagihan & Kewajiban"
+    },
+    {
+      "id": "item-0007",
+      "transaction_id": "trx-0007",
+      "item_name": "paseo elegant tisu toilet gulung 8 roll",
+      "price": 55500,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi"
+    },
+    {
+      "id": "item-0008",
+      "transaction_id": "trx-0008",
+      "item_name": "Makan Siang",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0009",
+      "transaction_id": "trx-0009",
+      "item_name": "yupi wild safari permen jeli aneka rasa 44 g",
+      "price": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong"
+    },
+    {
+      "id": "item-0010",
+      "transaction_id": "trx-0010",
+      "item_name": "GoJek pulang",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0011",
+      "transaction_id": "trx-0011",
+      "item_name": "Makan Malam",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0012",
+      "transaction_id": "trx-0012",
+      "item_name": "Sarapan",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0013",
+      "transaction_id": "trx-0013",
+      "item_name": "GoJek pergi",
+      "price": 5800,
+      "category": "WANTS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0014",
+      "transaction_id": "trx-0014",
+      "item_name": "whiskas makanan kucing kering kitten makerel 450 g",
+      "price": 31900,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat"
+    },
+    {
+      "id": "item-0015",
+      "transaction_id": "trx-0015",
+      "item_name": "Makan Siang",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0016",
+      "transaction_id": "trx-0016",
+      "item_name": "GoJek pulang",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0017",
+      "transaction_id": "trx-0017",
+      "item_name": "Makan Malam",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0018",
+      "transaction_id": "trx-0018",
+      "item_name": "Sarapan",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0019",
+      "transaction_id": "trx-0019",
+      "item_name": "GoJek pergi",
+      "price": 5800,
+      "category": "WANTS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0020",
+      "transaction_id": "trx-0020",
+      "item_name": "Makan Siang",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0021",
+      "transaction_id": "trx-0021",
+      "item_name": "GoJek pulang",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0022",
+      "transaction_id": "trx-0022",
+      "item_name": "Makan Malam",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0023",
+      "transaction_id": "trx-0023",
+      "item_name": "holisticare super ester-c vitamin c suplemen daya tahan tubuh 4 tablet",
+      "price": 8700,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat"
+    },
+    {
+      "id": "item-0024",
+      "transaction_id": "trx-0024",
+      "item_name": "yupi wild safari permen jeli aneka rasa 44 g",
+      "price": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong"
+    },
+    {
+      "id": "item-0025",
+      "transaction_id": "trx-0025",
+      "item_name": "Sarapan",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0026",
+      "transaction_id": "trx-0026",
+      "item_name": "GoJek pergi",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0027",
+      "transaction_id": "trx-0027",
+      "item_name": "Makan Siang",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0028",
+      "transaction_id": "trx-0028",
+      "item_name": "GoJek pulang",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0029",
+      "transaction_id": "trx-0029",
+      "item_name": "Makan Malam",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0030",
+      "transaction_id": "trx-0030",
+      "item_name": "rohto cool obat tetes mata 7 ml",
+      "price": 21400,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat"
+    },
+    {
+      "id": "item-0031",
+      "transaction_id": "trx-0031",
+      "item_name": "Sarapan",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0032",
+      "transaction_id": "trx-0032",
+      "item_name": "GoJek pergi",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0033",
+      "transaction_id": "trx-0033",
+      "item_name": "Makan Siang",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0034",
+      "transaction_id": "trx-0034",
+      "item_name": "pinkberry reed diffuser pengharum ruangan gardenia wishes 30 ml",
+      "price": 52900,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi"
+    },
+    {
+      "id": "item-0035",
+      "transaction_id": "trx-0035",
+      "item_name": "GoJek pulang",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0036",
+      "transaction_id": "trx-0036",
+      "item_name": "Makan Malam",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0037",
+      "transaction_id": "trx-0037",
+      "item_name": "kiky buku tulis 38 lembar karakter",
+      "price": 8000,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat"
+    },
+    {
+      "id": "item-0038",
+      "transaction_id": "trx-0038",
+      "item_name": "yupi wild safari permen jeli aneka rasa 44 g",
+      "price": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong"
+    },
+    {
+      "id": "item-0039",
+      "transaction_id": "trx-0039",
+      "item_name": "original source sabun mandi creamy vanilla & raspberry 1 l",
+      "price": 85000,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi"
+    },
+    {
+      "id": "item-0040",
+      "transaction_id": "trx-0040",
+      "item_name": "Sarapan",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0041",
+      "transaction_id": "trx-0041",
+      "item_name": "GoJek pergi",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0042",
+      "transaction_id": "trx-0042",
+      "item_name": "whiskas junior makanan kucing basah mousse ayam 80 g",
+      "price": 8100,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat"
+    },
+    {
+      "id": "item-0043",
+      "transaction_id": "trx-0043",
+      "item_name": "Makan Siang",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0044",
+      "transaction_id": "trx-0044",
+      "item_name": "kopi toraja",
+      "price": 20000,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong"
+    },
+    {
+      "id": "item-0045",
+      "transaction_id": "trx-0045",
+      "item_name": "GoJek pulang",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0046",
+      "transaction_id": "trx-0046",
+      "item_name": "Makan Malam",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0047",
+      "transaction_id": "trx-0047",
+      "item_name": "glade pengharum ruangan aerosol peony & berry bliss 350 ml",
+      "price": 24900,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi"
+    },
+    {
+      "id": "item-0048",
+      "transaction_id": "trx-0048",
+      "item_name": "alfamart tinytan masker dewasa 3d duckbill + 8 air patch",
+      "price": 12900,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat"
+    },
+    {
+      "id": "item-0049",
+      "transaction_id": "trx-0049",
+      "item_name": "Sarapan",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0050",
+      "transaction_id": "trx-0050",
+      "item_name": "GoJek pergi",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0051",
+      "transaction_id": "trx-0051",
+      "item_name": "Makan Siang",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0052",
+      "transaction_id": "trx-0052",
+      "item_name": "GoJek pulang",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0053",
+      "transaction_id": "trx-0053",
+      "item_name": "Makan Malam",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0054",
+      "transaction_id": "trx-0054",
+      "item_name": "yupi wild safari permen jeli aneka rasa 44 g",
+      "price": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong"
+    },
+    {
+      "id": "item-0055",
+      "transaction_id": "trx-0055",
+      "item_name": "wonder fuel tabung gas mini portabel 220 g",
+      "price": 25900,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi"
+    },
+    {
+      "id": "item-0056",
+      "transaction_id": "trx-0056",
+      "item_name": "peditox obat pembasmi kutu rambut 50 ml",
+      "price": 10500,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat"
+    },
+    {
+      "id": "item-0057",
+      "transaction_id": "trx-0057",
+      "item_name": "Sarapan",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0058",
+      "transaction_id": "trx-0058",
+      "item_name": "GoJek pergi",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0059",
+      "transaction_id": "trx-0059",
+      "item_name": "Makan Siang",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0060",
+      "transaction_id": "trx-0060",
+      "item_name": "GoJek pulang",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0061",
+      "transaction_id": "trx-0061",
+      "item_name": "Makan Malam",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0062",
+      "transaction_id": "trx-0062",
+      "item_name": "yupi wild safari permen jeli aneka rasa 44 g",
+      "price": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong"
+    },
+    {
+      "id": "item-0063",
+      "transaction_id": "trx-0063",
+      "item_name": "Sarapan",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0064",
+      "transaction_id": "trx-0064",
+      "item_name": "GoJek pergi",
+      "price": 5800,
+      "category": "WANTS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0065",
+      "transaction_id": "trx-0065",
+      "item_name": "yupi wild safari permen jeli aneka rasa 44 g",
+      "price": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong"
+    },
+    {
+      "id": "item-0066",
+      "transaction_id": "trx-0066",
+      "item_name": "Makan Siang",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0067",
+      "transaction_id": "trx-0067",
+      "item_name": "GoJek pulang",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0068",
+      "transaction_id": "trx-0068",
+      "item_name": "so klin pewangi pakaian cotton fantasy refill 1700 ml",
+      "price": 19900,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi"
+    },
+    {
+      "id": "item-0069",
+      "transaction_id": "trx-0069",
+      "item_name": "Makan Malam",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0070",
+      "transaction_id": "trx-0070",
+      "item_name": "vicks formula 44 obat batuk cair 100 ml",
+      "price": 40200,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat"
+    },
+    {
+      "id": "item-0071",
+      "transaction_id": "trx-0071",
+      "item_name": "yupi wild safari permen jeli aneka rasa 44 g",
+      "price": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong"
+    },
+    {
+      "id": "item-0072",
+      "transaction_id": "trx-0072",
+      "item_name": "caladine lotion obat anti gatal 60 ml",
+      "price": 22800,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat"
+    },
+    {
+      "id": "item-0073",
+      "transaction_id": "trx-0073",
+      "item_name": "Sarapan",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0074",
+      "transaction_id": "trx-0074",
+      "item_name": "GoJek pergi",
+      "price": 5800,
+      "category": "WANTS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0075",
+      "transaction_id": "trx-0075",
+      "item_name": "Makan Siang",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0076",
+      "transaction_id": "trx-0076",
+      "item_name": "GoJek pulang",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0077",
+      "transaction_id": "trx-0077",
+      "item_name": "Makan Malam",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0078",
+      "transaction_id": "trx-0078",
+      "item_name": "cussons botol susu bayi 60 ml",
+      "price": 22900,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi"
+    },
+    {
+      "id": "item-0079",
+      "transaction_id": "trx-0079",
+      "item_name": "Sarapan",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0080",
+      "transaction_id": "trx-0080",
+      "item_name": "GoJek pergi",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0081",
+      "transaction_id": "trx-0081",
+      "item_name": "whiskas makanan kucing kering adult tuna 480 g",
+      "price": 38200,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat"
+    },
+    {
+      "id": "item-0082",
+      "transaction_id": "trx-0082",
+      "item_name": "Makan Siang",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0083",
+      "transaction_id": "trx-0083",
+      "item_name": "lotte xylitol fresh mint 26.1 g",
+      "price": 9600,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong"
+    },
+    {
+      "id": "item-0084",
+      "transaction_id": "trx-0084",
+      "item_name": "yupi wild safari permen jeli aneka rasa 44 g",
+      "price": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong"
+    },
+    {
+      "id": "item-0085",
+      "transaction_id": "trx-0085",
+      "item_name": "GoJek pulang",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0086",
+      "transaction_id": "trx-0086",
+      "item_name": "Makan Malam",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0087",
+      "transaction_id": "trx-0087",
+      "item_name": "kiky buku tulis boxy 40 lembar",
+      "price": 13600,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat"
+    },
+    {
+      "id": "item-0088",
+      "transaction_id": "trx-0088",
+      "item_name": "Sarapan",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0089",
+      "transaction_id": "trx-0089",
+      "item_name": "sleek baby pelembut & pewangi pakaian bayi 430 ml",
+      "price": 27900,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi"
+    },
+    {
+      "id": "item-0090",
+      "transaction_id": "trx-0090",
+      "item_name": "GoJek pergi",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0091",
+      "transaction_id": "trx-0091",
+      "item_name": "Makan Siang",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0092",
+      "transaction_id": "trx-0092",
+      "item_name": "GoJek pulang",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0093",
+      "transaction_id": "trx-0093",
+      "item_name": "Makan Malam",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0094",
+      "transaction_id": "trx-0094",
+      "item_name": "swiss roll chesee cake",
+      "price": 65000,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong"
+    },
+    {
+      "id": "item-0095",
+      "transaction_id": "trx-0095",
+      "item_name": "yupi wild safari permen jeli aneka rasa 44 g",
+      "price": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong"
+    },
+    {
+      "id": "item-0096",
+      "transaction_id": "trx-0096",
+      "item_name": "Sarapan",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0097",
+      "transaction_id": "trx-0097",
+      "item_name": "GoJek pergi",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0098",
+      "transaction_id": "trx-0098",
+      "item_name": "alfamart kamper lemari 150 g",
+      "price": 12900,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi"
+    },
+    {
+      "id": "item-0099",
+      "transaction_id": "trx-0099",
+      "item_name": "Makan Siang",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0100",
+      "transaction_id": "trx-0100",
+      "item_name": "l-men gainmass whey protein cokelat 225 g",
+      "price": 91300,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat"
+    },
+    {
+      "id": "item-0101",
+      "transaction_id": "trx-0101",
+      "item_name": "GoJek pulang",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0102",
+      "transaction_id": "trx-0102",
+      "item_name": "Makan Malam",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0103",
+      "transaction_id": "trx-0103",
+      "item_name": "yupi wild safari permen jeli aneka rasa 44 g",
+      "price": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong"
+    },
+    {
+      "id": "item-0104",
+      "transaction_id": "trx-0104",
+      "item_name": "Sarapan",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0105",
+      "transaction_id": "trx-0105",
+      "item_name": "GoJek pergi",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0106",
+      "transaction_id": "trx-0106",
+      "item_name": "Makan Siang",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0107",
+      "transaction_id": "trx-0107",
+      "item_name": "wiggle pulpen 3 warna assorted",
+      "price": 10000,
+      "category": "OTHERS",
+      "subcategory": "Lain-lain & Darurat"
+    },
+    {
+      "id": "item-0108",
+      "transaction_id": "trx-0108",
+      "item_name": "GoJek pulang",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0109",
+      "transaction_id": "trx-0109",
+      "item_name": "Makan Malam",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0110",
+      "transaction_id": "trx-0110",
+      "item_name": "Sarapan",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0111",
+      "transaction_id": "trx-0111",
+      "item_name": "GoJek pergi",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0112",
+      "transaction_id": "trx-0112",
+      "item_name": "Makan Siang",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0113",
+      "transaction_id": "trx-0113",
+      "item_name": "yupi wild safari permen jeli aneka rasa 44 g",
+      "price": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong"
+    },
+    {
+      "id": "item-0114",
+      "transaction_id": "trx-0114",
+      "item_name": "GoJek pulang",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0115",
+      "transaction_id": "trx-0115",
+      "item_name": "Makan Malam",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0116",
+      "transaction_id": "trx-0116",
+      "item_name": "Sarapan",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0117",
+      "transaction_id": "trx-0117",
+      "item_name": "GoJek pergi",
+      "price": 5800,
+      "category": "WANTS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0118",
+      "transaction_id": "trx-0118",
+      "item_name": "Makan Siang",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0119",
+      "transaction_id": "trx-0119",
+      "item_name": "GoJek pulang",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0120",
+      "transaction_id": "trx-0120",
+      "item_name": "Makan Malam",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0121",
+      "transaction_id": "trx-0121",
+      "item_name": "bebek bathroom lavender pembersih kamar mandi refill 400 ml",
+      "price": 10900,
+      "category": "NEEDS",
+      "subcategory": "Kebutuhan Rumah & Mandi"
+    },
+    {
+      "id": "item-0122",
+      "transaction_id": "trx-0122",
+      "item_name": "Sarapan",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0123",
+      "transaction_id": "trx-0123",
+      "item_name": "GoJek pergi",
+      "price": 5800,
+      "category": "WANTS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0124",
+      "transaction_id": "trx-0124",
+      "item_name": "yupi wild safari permen jeli aneka rasa 44 g",
+      "price": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong"
+    },
+    {
+      "id": "item-0125",
+      "transaction_id": "trx-0125",
+      "item_name": "Makan Siang",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0126",
+      "transaction_id": "trx-0126",
+      "item_name": "GoJek pulang",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0127",
+      "transaction_id": "trx-0127",
+      "item_name": "Makan Malam",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0128",
+      "transaction_id": "trx-0128",
+      "item_name": "yupi wild safari permen jeli aneka rasa 44 g",
+      "price": 4900,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong"
+    },
+    {
+      "id": "item-0129",
+      "transaction_id": "trx-0129",
+      "item_name": "Sarapan",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0130",
+      "transaction_id": "trx-0130",
+      "item_name": "GoJek pergi",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0131",
+      "transaction_id": "trx-0131",
+      "item_name": "Makan Siang",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    },
+    {
+      "id": "item-0132",
+      "transaction_id": "trx-0132",
+      "item_name": "GoJek pulang",
+      "price": 5800,
+      "category": "NEEDS",
+      "subcategory": "Transportasi & Rutinitas"
+    },
+    {
+      "id": "item-0133",
+      "transaction_id": "trx-0133",
+      "item_name": "Makan Malam",
+      "price": 24200,
+      "category": "NEEDS",
+      "subcategory": "Makan & Minum Harian"
+    }
+  ],
+  "budgets": [
+    {
+      "id": "bdgt-001",
+      "category": "NEEDS",
+      "limit_amount": 2500000,
+      "month_period": "2026-05"
+    },
+    {
+      "id": "bdgt-002",
+      "category": "WANTS",
+      "limit_amount": 1500000,
+      "month_period": "2026-05"
+    }
+  ]
+}
