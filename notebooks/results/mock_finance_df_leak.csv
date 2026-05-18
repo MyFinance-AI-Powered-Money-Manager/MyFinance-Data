@@ -1,0 +1,134 @@
+timestamp,type,amount,macro_category,master_category,title
+2026-05-01 00:44:00,Expense,16800,Others,Lain-lain & Darurat,akurat strip uji kehamilan
+2026-05-01 07:00:00,Expense,24200,Needs,Makan & Minum Harian,Sarapan
+2026-05-01 08:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pergi
+2026-05-01 09:00:00,Income,9122291,Needs,Salary,Gaji Bulanan
+2026-05-01 10:00:00,Expense,2032620,Needs,Tagihan & Kewajiban,Bayar Kosan
+2026-05-01 10:15:00,Expense,427347,Needs,Tagihan & Kewajiban,Listrik
+2026-05-01 10:17:00,Expense,55500,Needs,Kebutuhan Rumah & Mandi,paseo elegant tisu toilet gulung 8 roll
+2026-05-01 12:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Siang
+2026-05-01 14:33:00,Expense,4900,Wants,Jajan & Nongkrong,yupi wild safari permen jeli aneka rasa 44 g
+2026-05-01 17:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pulang
+2026-05-01 18:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Malam
+2026-05-02 07:00:00,Expense,24200,Needs,Makan & Minum Harian,Sarapan
+2026-05-02 08:00:00,Expense,5800,Wants,Transportasi & Rutinitas,GoJek pergi
+2026-05-02 08:16:00,Expense,31900,Others,Lain-lain & Darurat,whiskas makanan kucing kering kitten makerel 450 g
+2026-05-02 12:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Siang
+2026-05-02 17:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pulang
+2026-05-02 18:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Malam
+2026-05-03 07:00:00,Expense,24200,Needs,Makan & Minum Harian,Sarapan
+2026-05-03 08:00:00,Expense,5800,Wants,Transportasi & Rutinitas,GoJek pergi
+2026-05-03 12:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Siang
+2026-05-03 17:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pulang
+2026-05-03 18:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Malam
+2026-05-03 23:13:00,Expense,8700,Others,Lain-lain & Darurat,holisticare super ester-c vitamin c suplemen daya tahan tubuh 4 tablet
+2026-05-04 00:01:00,Expense,4900,Wants,Jajan & Nongkrong,yupi wild safari permen jeli aneka rasa 44 g
+2026-05-04 07:00:00,Expense,24200,Needs,Makan & Minum Harian,Sarapan
+2026-05-04 08:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pergi
+2026-05-04 12:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Siang
+2026-05-04 17:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pulang
+2026-05-04 18:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Malam
+2026-05-04 22:36:00,Expense,21400,Others,Lain-lain & Darurat,rohto cool obat tetes mata 7 ml
+2026-05-05 07:00:00,Expense,24200,Needs,Makan & Minum Harian,Sarapan
+2026-05-05 08:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pergi
+2026-05-05 12:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Siang
+2026-05-05 13:29:00,Expense,52900,Needs,Kebutuhan Rumah & Mandi,pinkberry reed diffuser pengharum ruangan gardenia wishes 30 ml
+2026-05-05 17:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pulang
+2026-05-05 18:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Malam
+2026-05-05 19:06:00,Expense,8000,Others,Lain-lain & Darurat,kiky buku tulis 38 lembar karakter
+2026-05-05 22:10:00,Expense,4900,Wants,Jajan & Nongkrong,yupi wild safari permen jeli aneka rasa 44 g
+2026-05-06 06:19:00,Expense,85000,Needs,Kebutuhan Rumah & Mandi,original source sabun mandi creamy vanilla & raspberry 1 l
+2026-05-06 07:00:00,Expense,24200,Needs,Makan & Minum Harian,Sarapan
+2026-05-06 08:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pergi
+2026-05-06 09:41:00,Expense,8100,Others,Lain-lain & Darurat,whiskas junior makanan kucing basah mousse ayam 80 g
+2026-05-06 12:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Siang
+2026-05-06 15:08:00,Expense,20000,Wants,Jajan & Nongkrong,kopi toraja
+2026-05-06 17:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pulang
+2026-05-06 18:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Malam
+2026-05-07 03:12:00,Expense,24900,Needs,Kebutuhan Rumah & Mandi,glade pengharum ruangan aerosol peony & berry bliss 350 ml
+2026-05-07 05:41:00,Expense,12900,Others,Lain-lain & Darurat,alfamart tinytan masker dewasa 3d duckbill + 8 air patch
+2026-05-07 07:00:00,Expense,24200,Needs,Makan & Minum Harian,Sarapan
+2026-05-07 08:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pergi
+2026-05-07 12:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Siang
+2026-05-07 17:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pulang
+2026-05-07 18:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Malam
+2026-05-07 22:19:00,Expense,4900,Wants,Jajan & Nongkrong,yupi wild safari permen jeli aneka rasa 44 g
+2026-05-08 02:56:00,Expense,25900,Needs,Kebutuhan Rumah & Mandi,wonder fuel tabung gas mini portabel 220 g
+2026-05-08 03:38:00,Expense,10500,Others,Lain-lain & Darurat,peditox obat pembasmi kutu rambut 50 ml
+2026-05-08 07:00:00,Expense,24200,Needs,Makan & Minum Harian,Sarapan
+2026-05-08 08:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pergi
+2026-05-08 12:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Siang
+2026-05-08 17:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pulang
+2026-05-08 18:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Malam
+2026-05-08 22:49:00,Expense,4900,Wants,Jajan & Nongkrong,yupi wild safari permen jeli aneka rasa 44 g
+2026-05-09 07:00:00,Expense,24200,Needs,Makan & Minum Harian,Sarapan
+2026-05-09 08:00:00,Expense,5800,Wants,Transportasi & Rutinitas,GoJek pergi
+2026-05-09 09:18:00,Expense,4900,Wants,Jajan & Nongkrong,yupi wild safari permen jeli aneka rasa 44 g
+2026-05-09 12:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Siang
+2026-05-09 17:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pulang
+2026-05-09 17:39:00,Expense,19900,Needs,Kebutuhan Rumah & Mandi,so klin pewangi pakaian cotton fantasy refill 1700 ml
+2026-05-09 18:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Malam
+2026-05-09 23:43:00,Expense,40200,Others,Lain-lain & Darurat,vicks formula 44 obat batuk cair 100 ml
+2026-05-10 02:25:00,Expense,4900,Wants,Jajan & Nongkrong,yupi wild safari permen jeli aneka rasa 44 g
+2026-05-10 06:11:00,Expense,22800,Others,Lain-lain & Darurat,caladine lotion obat anti gatal 60 ml
+2026-05-10 07:00:00,Expense,24200,Needs,Makan & Minum Harian,Sarapan
+2026-05-10 08:00:00,Expense,5800,Wants,Transportasi & Rutinitas,GoJek pergi
+2026-05-10 12:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Siang
+2026-05-10 17:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pulang
+2026-05-10 18:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Malam
+2026-05-10 22:44:00,Expense,22900,Needs,Kebutuhan Rumah & Mandi,cussons botol susu bayi 60 ml
+2026-05-11 07:00:00,Expense,24200,Needs,Makan & Minum Harian,Sarapan
+2026-05-11 08:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pergi
+2026-05-11 09:47:00,Expense,38200,Others,Lain-lain & Darurat,whiskas makanan kucing kering adult tuna 480 g
+2026-05-11 12:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Siang
+2026-05-11 14:56:00,Expense,9600,Wants,Jajan & Nongkrong,lotte xylitol fresh mint 26.1 g
+2026-05-11 16:41:00,Expense,4900,Wants,Jajan & Nongkrong,yupi wild safari permen jeli aneka rasa 44 g
+2026-05-11 17:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pulang
+2026-05-11 18:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Malam
+2026-05-12 05:56:00,Expense,13600,Others,Lain-lain & Darurat,kiky buku tulis boxy 40 lembar
+2026-05-12 07:00:00,Expense,24200,Needs,Makan & Minum Harian,Sarapan
+2026-05-12 07:51:00,Expense,27900,Needs,Kebutuhan Rumah & Mandi,sleek baby pelembut & pewangi pakaian bayi 430 ml
+2026-05-12 08:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pergi
+2026-05-12 12:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Siang
+2026-05-12 17:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pulang
+2026-05-12 18:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Malam
+2026-05-12 19:52:00,Expense,65000,Wants,Jajan & Nongkrong,swiss roll chesee cake
+2026-05-12 23:27:00,Expense,4900,Wants,Jajan & Nongkrong,yupi wild safari permen jeli aneka rasa 44 g
+2026-05-13 07:00:00,Expense,24200,Needs,Makan & Minum Harian,Sarapan
+2026-05-13 08:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pergi
+2026-05-13 08:09:00,Expense,12900,Needs,Kebutuhan Rumah & Mandi,alfamart kamper lemari 150 g
+2026-05-13 12:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Siang
+2026-05-13 12:10:00,Expense,91300,Others,Lain-lain & Darurat,l-men gainmass whey protein cokelat 225 g
+2026-05-13 17:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pulang
+2026-05-13 18:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Malam
+2026-05-14 00:50:00,Expense,4900,Wants,Jajan & Nongkrong,yupi wild safari permen jeli aneka rasa 44 g
+2026-05-14 07:00:00,Expense,24200,Needs,Makan & Minum Harian,Sarapan
+2026-05-14 08:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pergi
+2026-05-14 12:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Siang
+2026-05-14 13:39:00,Expense,10000,Others,Lain-lain & Darurat,wiggle pulpen 3 warna assorted
+2026-05-14 17:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pulang
+2026-05-14 18:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Malam
+2026-05-15 07:00:00,Expense,24200,Needs,Makan & Minum Harian,Sarapan
+2026-05-15 08:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pergi
+2026-05-15 12:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Siang
+2026-05-15 13:55:00,Expense,4900,Wants,Jajan & Nongkrong,yupi wild safari permen jeli aneka rasa 44 g
+2026-05-15 17:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pulang
+2026-05-15 18:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Malam
+2026-05-16 07:00:00,Expense,24200,Needs,Makan & Minum Harian,Sarapan
+2026-05-16 08:00:00,Expense,5800,Wants,Transportasi & Rutinitas,GoJek pergi
+2026-05-16 12:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Siang
+2026-05-16 17:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pulang
+2026-05-16 18:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Malam
+2026-05-17 06:54:00,Expense,10900,Needs,Kebutuhan Rumah & Mandi,bebek bathroom lavender pembersih kamar mandi refill 400 ml
+2026-05-17 07:00:00,Expense,24200,Needs,Makan & Minum Harian,Sarapan
+2026-05-17 08:00:00,Expense,5800,Wants,Transportasi & Rutinitas,GoJek pergi
+2026-05-17 09:53:00,Expense,4900,Wants,Jajan & Nongkrong,yupi wild safari permen jeli aneka rasa 44 g
+2026-05-17 12:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Siang
+2026-05-17 17:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pulang
+2026-05-17 18:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Malam
+2026-05-18 01:44:00,Expense,4900,Wants,Jajan & Nongkrong,yupi wild safari permen jeli aneka rasa 44 g
+2026-05-18 07:00:00,Expense,24200,Needs,Makan & Minum Harian,Sarapan
+2026-05-18 08:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pergi
+2026-05-18 12:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Siang
+2026-05-18 17:00:00,Expense,5800,Needs,Transportasi & Rutinitas,GoJek pulang
+2026-05-18 18:00:00,Expense,24200,Needs,Makan & Minum Harian,Makan Malam

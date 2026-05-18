@@ -1,0 +1,68 @@
+{
+  "user_id": "cc3fd629-6e03-4b21-b6db-6e20f3d9dc39",
+  "month_period": "2026-05",
+  "transactions": [
+    {
+      "id": "trx-001",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "INCOME",
+      "total_amount": 5000000,
+      "category": "GAJI",
+      "subcategory": "Gaji Bulanan",
+      "description": "Gaji PT Utama",
+      "transaction_date": "2026-05-01T08:00:00Z"
+    },
+    {
+      "id": "trx-002",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 50000,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong",
+      "description": "Nongkrong malem minggu",
+      "transaction_date": "2026-05-05T19:30:00Z"
+    },
+    {
+      "id": "trx-003",
+      "wallet_id": "ff95578f-97fd-4b07-925e-04b5242a232f",
+      "type": "EXPENSE",
+      "total_amount": 10000,
+      "category": "NEEDS",
+      "subcategory": "Makan Sehari-hari",
+      "description": "Naspad",
+      "transaction_date": "2026-05-06T07:30:00Z"
+    }
+  ],
+  "transaction_items": [
+    {
+      "id": "item-001",
+      "transaction_id": "trx-002",
+      "item_name": "Kopi Susu",
+      "price": 50000,
+      "category": "WANTS",
+      "subcategory": "Jajan & Nongkrong"
+    },
+    {
+      "id": "item-002",
+      "transaction_id": "trx-003",
+      "item_name": "Naspad",
+      "price": 10000,
+      "category": "NEEDS",
+      "subcategory": "Makan Sehari-hari"
+    }
+  ],
+  "budgets": [
+    {
+      "id": "bdgt-001",
+      "category": "NEEDS",
+      "limit_amount": 2500000,
+      "month_period": "2026-05"
+    },
+    {
+      "id": "bdgt-002",
+      "category": "WANTS",
+      "limit_amount": 1500000,
+      "month_period": "2026-05"
+    }
+  ]
+}
