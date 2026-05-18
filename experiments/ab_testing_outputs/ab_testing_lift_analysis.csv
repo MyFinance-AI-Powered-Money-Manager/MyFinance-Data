@@ -1,0 +1,6 @@
+metric,variant_A,variant_B,difference_B_minus_A,interpretation
+Completion time,96.17533333333334,55.394999999999996,-40.780333333333346,Lower is better
+Completion rate,93.33333333333333,98.33333333333333,5.0,Higher is better
+Category accuracy,70.0,88.33333333333333,18.33333333333333,Higher is better
+Number of corrections,1.5833333333333333,0.6833333333333333,-0.8999999999999999,Lower is better
+Satisfaction score,3.2,3.9166666666666665,0.7166666666666663,Higher is better

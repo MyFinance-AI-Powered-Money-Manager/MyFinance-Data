@@ -1,0 +1,6 @@
+metric,test,statistic,p_value,significant_at_0.05
+completion_time_sec,Welch t-test,17.762730282783295,3.926872023356193e-34,True
+num_corrections,Welch t-test,4.408085472038915,2.755956722844324e-05,True
+satisfaction_score,Welch t-test,-4.950689219439295,2.569995766369597e-06,True
+transaction_saved,Chi-square test,0.8347826086956522,0.3608932234897323,False
+category_correct,Chi-square test,5.052631578947368,0.024588566448858675,True
