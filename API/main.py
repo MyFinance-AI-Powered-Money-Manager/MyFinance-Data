@@ -1,129 +1,69 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
-from typing import List, Literal, Dict
+from typing import List
+from utils import to_dataframe
+from category_prediction import to_features, predict_categories
+from calculate_budget_v2 import calculate_monthly_budget
+from leak_detection_and_financial_score_training import leak_and_financial_score
+import pandas as pd
 
 app = FastAPI(title="Data Processing API")
 
-# Input Structure
 class Transaction(BaseModel):
-    type: Literal["INCOME", "EXPENSE"]
-    amount: float
-    category: Literal["NEEDS", "WANTS"]
+    id: str
+    wallet_id: str
+    type: str
+    total_amount: int
+    category: str
     subcategory: str
+    description: str
     transaction_date: str
 
-class BudgetLimit(BaseModel):
+class TransactionItem(BaseModel):
+    id: str
+    transaction_id: str
+    item_name: str
+    price: int
+    category: str
     subcategory: str
-    limit: float
 
-class MonthlyDataRequest(BaseModel):
-    budgets: List[BudgetLimit]
+class Budget(BaseModel):
+    id: str
+    category: str
+    limit_amount: int
+    month_period: str
+
+class FinancialPayload(BaseModel):
+    user_id: str
+    month_period: str
     transactions: List[Transaction]
+    transaction_items: List[TransactionItem]
+    budgets: List[Budget]
 
-# Output Structure
-class CategorySummary(BaseModel):
-    subcategory: str
-    limit: float
-    spent: float
-    remaining: float
-    percentage_used: float
-
-class MonthlySummaryResponse(BaseModel):
-    categories: List[CategorySummary]
-    total_spent: float
-    total_budget: float
-
-# Endpoint
-@app.post("/api/v1/calculate-budget", response_model=MonthlySummaryResponse)
-async def calculate_monthly_budget(payload: MonthlyDataRequest):
-    # Calculate total spent per subcategory
-    spent_dict: Dict[str, float] = {}
+# Endpoints
+@app.post("/category-prediction/")
+async def category_prediction(payload: FinancialPayload):
+    try:
+      df = to_dataframe(payload, 'df_joined')
+      feature_ready_df = to_features(df)
+      predicted_categories = predict_categories(feature_ready_df)
+      return predicted_categories
     
-    for transaction in payload.transactions:
-        if transaction.type == "EXPENSE":
-            # Add to existing amount or initialize at 0
-            spent_dict[transaction.subcategory] = spent_dict.get(transaction.subcategory, 0.0) + transaction.amount
-
-    # Compare against budgets and calculate metrics
-    results = []
-    total_spent_overall = 0.0
-    total_budget_overall = 0.0
-
-    for budget in payload.budgets:
-        spent = spent_dict.get(budget.subcategory, 0.0)
-        remaining = budget.limit - spent
-        
-        if budget.limit > 0:
-            percentage_used = (spent / budget.limit) * 100
-        else:
-            percentage_used = 0.0
-
-        results.append(CategorySummary(
-            subcategory=budget.subcategory,
-            limit=budget.limit,
-            spent=spent,
-            remaining=remaining,
-            percentage_used=round(percentage_used, 2)
-        ))
-
-        total_spent_overall += spent
-        total_budget_overall += budget.limit
-
-    return MonthlySummaryResponse(
-        categories=results,
-        total_spent=total_spent_overall,
-        total_budget=total_budget_overall
-    )
-
-"""
-Example of JSON  Input
-{
-  "budgets": [
-    {
-      "subcategory": "Makan & Minum Harian",
-      "limit": 1500000
-    },
-    {
-      "subcategory": "Transportasi & Rutinitas",
-      "limit": 500000
-    }
-  ],
-  "transactions": [
-    {
-      "type": "EXPENSE",
-      "amount": 23200,
-      "category": "NEEDS",
-      "subcategory": "Makan & Minum Harian",
-      "transaction_date": "2026-05-06"
-    },
-    {
-      "type": "EXPENSE",
-      "amount": 50000,
-      "category": "NEEDS",
-      "subcategory": "Makan & Minum Harian",
-      "transaction_date": "2026-05-06"
-    },
-    {
-      "type": "EXPENSE",
-      "amount": 9600,
-      "category": "NEEDS",
-      "subcategory": "Transportasi & Rutinitas",
-      "transaction_date": "2026-05-06"
-    },
-    {
-      "type": "INCOME",
-      "amount": 4627415,
-      "category": "NEEDS",
-      "subcategory": "Salary",
-      "transaction_date": "2026-05-06"
-    }
-  ]
-}
-"""
-
-class Transaction(BaseModel):
-    type: Literal["INCOME", "EXPENSE"]
-    amount: float
-    category: Literal["NEEDS", "WANTS"]
-    subcategory: str
-    transaction_date: str
+    except Exception as e:
+        return f"Error: {e}"
+@app.post('/budget-calculator/')
+async def budget_calculator(payload: FinancialPayload):
+    try:
+        result = calculate_monthly_budget(payload.model_dump())
+        return {"budgets": result}
+    except Exception as e:
+        return f"error: {e}"
+    
+@app.post("/leak-detection-and-financial-score")
+async def leak_and_score(payload: FinancialPayload):
+    try:
+        df = to_dataframe(payload, 'df_joined')
+        summary = leak_and_financial_score(df)
+        return summary
+    except Exception as e:
+        return f"error: {e}"
